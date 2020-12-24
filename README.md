@@ -20,6 +20,9 @@
 - Magisk
   - [Xray4Magisk](https://github.com/CerteKim/Xray4Magisk)
   - [Xray_For_Magisk](https://github.com/E7KMbb/Xray_For_Magisk)
+- Homebrew
+  - [homebrew-xray](https://github.com/N4FA/homebrew-xray)
+  - [homebrew-xray](https://github.com/xiruizhao/homebrew-xray)
 
 ## Usage
 
